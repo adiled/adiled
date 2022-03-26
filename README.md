@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**adiled/adiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't mind that frown :point_left:, I'm facing the naked mountain :mountain_snow: (a.k.a killer mountain) there in western himalayas, it has that effect on you.. :sweat_smile:
 
-Here are some ideas to get you started:
+For IPA nerds, I'm called ɑðɪl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I grew up hanging on trees :orangutan: and roller skating in a soviet-built suburb of an Asian megapolis.
+
+:triumph: I was RTFM in '08, modding games, botting MMORPGs, hopped onto the design scene in '10, went fairly full-stack dev by '15 just when fancy UI frameworks were taking off, bootstrapped my first product startup in '18.
+
+Lately I'm piecing together brilliant libraries :point_down: for some open-source goodness.
+
+Looking to connect with like-minds building awesome productships.
