@@ -6,8 +6,10 @@ For IPA nerds, I'm called ɑðɪl
 
 I grew up hanging on trees :orangutan: and roller skating in a soviet-built suburb of an Asian megapolis.
 
-:triumph: I was RTFM in '08, modding games, botting MMORPGs, hopped onto the design scene in '10, went fairly full-stack dev by '15 just when fancy UI frameworks were taking off, bootstrapped my first product startup in '18.
+## :sailboat: My voyage
+
+:triumph: I was RTFM in '08, modding games, botting MMORPGs, :paintbrush: slid into the design scene in '10, :shipit: went fairly full-stack dev by '15 just when fancy UI frameworks were taking off, :bowtie: bootstrapped my first product startup in '18.
 
 Lately piecing together brilliant libraries :point_down: for some open-source goodness.
 
-**Looking to connect** with like-minds building awesome productships.
+:call_me_hand: **Looking to connect** with like-minds building awesome productships.
