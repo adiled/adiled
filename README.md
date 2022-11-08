@@ -1,6 +1,6 @@
 ### Hello!
 
-Don't mind that frown :point_left:, I'm facing the naked mountain :mountain_snow: (a.k.a killer mountain) there in western himalayas, it has that effect on you.. :sweat_smile:
+Yup! That's me catching a happy breath :point_left:, I like heights! :sweat_smile:
 
 For IPA nerds, I'm called ɑðɪl
 
