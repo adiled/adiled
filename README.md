@@ -1,10 +1,8 @@
 ### Hello!
 
-Yup! That's me catching a happy breath :point_left:, I like heights! :sweat_smile:
+:point_left: I grew up hanging on trees :orangutan: and roller skating in a soviet-built suburb of an Asian megapolis.
 
 For IPA nerds, I'm called ɑðɪl
-
-I grew up hanging on trees :orangutan: and roller skating in a soviet-built suburb of an Asian megapolis.
 
 ## :sailboat: My voyage
 
